@@ -29,8 +29,9 @@ As each pilot site has its own format and different data sources, there is a gat
 - Jose Manuel Broto - jmbroto@cimne.upc.edu
 - Eloi Gabaldón - egabaldon@cimne.upc.edu
 - Gerard Laguna - glaguna@cimne.upc.edu
+- Josep Mayos - jmayos@cimne.upc.edu
   
-Copyright (c) 2024 Jose Manuel Broto, Eloi Gabaldón, Gerard Laguna
+Copyright (c) 2024 Jose Manuel Broto, Eloi Gabaldón, Gerard Laguna, Josep Mayos
   
 
 
